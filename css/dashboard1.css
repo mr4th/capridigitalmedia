@@ -1,0 +1,13 @@
+body {
+    background-color: #1b0000;
+}
+.col-sm-10 {
+    background-color: aliceblue;
+}
+#footer {
+    padding: 10px;
+    border-top: 1px solid black;
+    text-align: center;
+    color: aliceblue;
+    background-color: #3d0f0f;
+}
